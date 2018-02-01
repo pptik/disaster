@@ -1,3 +1,6 @@
+---
+title: Open Data Repository for Emergency Management and Disaster Risk Reduction
+---
 ## Open Data Repository for Emergency Management and Disaster Risk Reduction
 
 by [PPTIK Institut Teknologi Bandung](http://pptik.itb.ac.id/)
